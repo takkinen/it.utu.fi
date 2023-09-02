@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-02T11:45:54.172Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="3VN1h-1iDQw9iwUB_xVN" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-02T11:51:08.990Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="11fn29E4WJLOQgSqrlIz" version="21.6.8" type="github">
   <diagram name="Page-1" id="RE-bSaFBlJFPlZoPT-o7">
     <mxGraphModel dx="2004" dy="1155" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -118,7 +118,7 @@
             <mxPoint x="360" y="1000" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vy5Wt1EbS-Q7Gt0LcghG-15" value="&lt;div&gt;- Full Mesh on Distribtuin Layer?&lt;/div&gt;&lt;div&gt;- Area planning?&lt;/div&gt;&lt;div&gt;-- Case1: Provider gives area 0&lt;/div&gt;&lt;div&gt;-- Case2: Provider gives area n&lt;/div&gt;&lt;div&gt;-- Case3: Provider gives two uplinks&lt;/div&gt;&lt;div&gt;-- Is use of stub area practical?&lt;br&gt;&lt;/div&gt;&lt;div&gt;- BFD Best Practises?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="vy5Wt1EbS-Q7Gt0LcghG-15" value="&lt;div&gt;- Full Mesh on Distribtuion Layer?&lt;/div&gt;&lt;div&gt;- Area planning?&lt;/div&gt;&lt;div&gt;-- Case1: Provider gives area 0&lt;/div&gt;&lt;div&gt;-- Case2: Provider gives area n&lt;/div&gt;&lt;div&gt;-- Case3: Provider gives two uplinks&lt;/div&gt;&lt;div&gt;-- Is use of stub area practical?&lt;br&gt;&lt;/div&gt;&lt;div&gt;- BFD Best Practises?&lt;/div&gt;&lt;div&gt;- Virtual Chassis Fiber, wiht different control planes and shared forward plane?&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="20" y="750" width="430" height="240" as="geometry" />
         </mxCell>
       </root>
